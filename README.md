@@ -1,5 +1,7 @@
 # flexbox-exercise
 
+live-preview: https://gsg-g11.github.io/amjad-flex/
+
 We have a skeleton for our website as the picture below, use what you have already learned about CSS Flexbox to make our website alive.
 
 <img src="flexbox_exercise.png" alt="style website using flex">
